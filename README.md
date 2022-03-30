@@ -8,9 +8,10 @@
 
 ## Languages and Tools:
 
+<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
-<code><img height="20" src="https://cdn.svgporn.com/logos/python.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/java.svg"></code>
 
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
