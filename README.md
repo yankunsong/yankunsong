@@ -18,6 +18,7 @@
 <code><img height="20" src="https://cdn.svgporn.com/logos/redux.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/electron.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/jest.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/express.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/postgresql.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
