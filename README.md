@@ -21,8 +21,6 @@
 
 <code><img height="20" src="https://cdn.svgporn.com/logos/postgresql.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
-
-
 <code><img height="20" src="https://cdn.svgporn.com/logos/jest.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/kafka-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
