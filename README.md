@@ -3,7 +3,7 @@
 <a href="https://github.com/buuing"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="160" /></a>
 
 - 🔭 I’m a graduate student majoring in Computer Science
-- 🌱 I’m learning full-stack development
+- 🌱 I’m working on full-stack development
 - :computer: I'm also an active Overwatch player
 
 ### Languages and Tools:
