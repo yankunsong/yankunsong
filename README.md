@@ -2,8 +2,8 @@
 
 <a href="https://github.com/buuing"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="160" /></a>
 
-- 🔭 I’m a graduate student majoring in Computer Science
-- 🌱 I’m working on full-stack development
+- 🔭 I’m a developer at FINRA
+- 🌱 I have one cat and many turtles
 - :computer: I'm also an active Overwatch player
 
 ### Languages and Tools:
