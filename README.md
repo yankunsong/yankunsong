@@ -4,7 +4,6 @@
 
 - 🔭 I’m a developer at FINRA
 - 🌱 I have one cat and many turtles
-- :computer: I'm also an active Overwatch player
 
 ### Languages and Tools:
 <code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
